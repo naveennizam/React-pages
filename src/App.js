@@ -6,6 +6,7 @@ import Home from "./Home";
 import Blogs from "./Blogs";
 import Contact from "./Contact";
 import NoPage from "./NoPage";
+import Hook from './Hook';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
            <Route index element={<Home />} />
            <Route path="contact" element={<Contact />} />
            <Route path="nopage" element={<NoPage />} />
+           <Route path="hook" element={<Hook />} />
          </Route>
        </Routes>
      
