@@ -23,6 +23,11 @@ const Layout = () => {
               <Link to="/nopage" className="navbar-brand">NoPage</Link>
             </li>
             
+<<<<<<< HEAD
+=======
+           
+
+>>>>>>> 75adfdc8963e828cc8fb3842278253309705ee13
           </ul>
 
         </div>

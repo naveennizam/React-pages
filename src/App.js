@@ -17,7 +17,11 @@ function App() {
            <Route index element={<Home />} />
            <Route path="contact" element={<Contact />} />
            <Route path="nopage" element={<NoPage />} />
+<<<<<<< HEAD
           
+=======
+           
+>>>>>>> 75adfdc8963e828cc8fb3842278253309705ee13
          </Route>
        </Routes>
      
