@@ -2,7 +2,7 @@
 function Cards (props)  {
     return (
         <>
-          <div className="card" style={{width: "200px"}}>
+          <div className="card" style={{width: "200px",display:"inline-block",margin:'20px'}}>
         <img src={props.pic} className="card-img-top"  alt="Card cap"/>
           <div className="card-body">
             <h5 className="card-title">{props.naam}</h5>

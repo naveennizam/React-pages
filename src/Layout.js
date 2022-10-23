@@ -23,12 +23,6 @@ const Layout = () => {
               <Link to="/nopage" className="navbar-brand">NoPage</Link>
             </li>
             
-            <li className="nav-item">
-
-              <Link to="/hook" className="navbar-brand">Hook</Link>
-            </li>
-
-
           </ul>
 
         </div>
